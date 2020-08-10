@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HBConfPackage_Example' do
+  pod 'HBConfPackage', :path => '../'
+
+  target 'HBConfPackage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
