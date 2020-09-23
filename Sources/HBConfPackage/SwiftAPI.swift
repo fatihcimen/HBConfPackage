@@ -1,4 +1,7 @@
 import Foundation
+#if SWIFT_PACKAGE
+import HBConfPackageObjc
+#endif
 
 public class SwiftAPI {
     public let endPoint: ObjcEndPoint

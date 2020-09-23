@@ -1,0 +1,6 @@
+framework module HBConfPackage {
+  umbrella header "HBConfPackage-umbrella.h"
+
+  export *
+  module * { export * }
+}

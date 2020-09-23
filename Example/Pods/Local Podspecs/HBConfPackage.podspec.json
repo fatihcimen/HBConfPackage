@@ -1,0 +1,22 @@
+{
+  "name": "HBConfPackage",
+  "version": "0.1.0",
+  "summary": "A short description of HBConfPackage.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Fatih Cimen/HBConfPackage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Fatih Cimen": "fatih.cimen@hepsiburada.com"
+  },
+  "source": {
+    "git": "https://github.com/Fatih Cimen/HBConfPackage.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HBConfPackage/Classes/**/*"
+}

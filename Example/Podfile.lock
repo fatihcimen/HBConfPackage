@@ -1,0 +1,16 @@
+PODS:
+  - HBConfPackage (0.1.0)
+
+DEPENDENCIES:
+  - HBConfPackage (from `../`)
+
+EXTERNAL SOURCES:
+  HBConfPackage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HBConfPackage: d3060eb5b942b3fdb74a30258c39d20923855d99
+
+PODFILE CHECKSUM: add9594d1e55ba973b132f49ff4c11551969df49
+
+COCOAPODS: 1.9.3
